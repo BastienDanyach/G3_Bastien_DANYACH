@@ -53,6 +53,6 @@ Cette classe a réutilisé la méthode run de ma précédente classe Search.java
 Dû à une perte de temps dans les 2 premiers exercices liés à la lecture et la compréhension du cours et des objectifs je n'ai pas pu traiter cet exercice.
 
 
-## Autheur
+## Auteur
 
 **Bastien Danyach S4TG3**
