@@ -10,6 +10,8 @@ On affecte d'abord les tâches les plus lourdes aux 3 machines. Les 2 machines q
 ### Cet ordonnancement est-il optimal ?
 Il est effectivement optimal. En effet, la somme de nos tâches donne 24 unités de temps. Or nous avons seulement 3 machines disponibles. 24/3 = 8. Or cet ordonnancement nous permet de finir l'ensemble de nos tâches en 8 unités de temps, soit la durée la plus optimale possible.
 
+# Suite des questions
+
 ### Pourquoi cet algorithme peut être qualifié de "glouton" ?
 Un algorithme glouton est un algorithme qui va s'occuper de faire des choix optimaux à l'échelle locale pour arriver à faire des choix qui mèneront à une optimisation globale. Ici c'est ce qu'on essaye de faire en comparant les makeSpan et en essayant à chaque fois que l'on va attribuer une tâche, d'attribuer celle-ci de manière optimale.
 
